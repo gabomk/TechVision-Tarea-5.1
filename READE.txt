@@ -1,0 +1,69 @@
+TAREA 5.1 - CREACIÓN DE UNA PÁGINA WEB RESPONSIVA CON CSS
+
+Nombre del proyecto:
+TechVision - Desarrollo Web
+
+Descripción:
+Este proyecto consiste en la creación de un sitio web responsivo
+utilizando HTML5, CSS3 y Bootstrap.
+
+El sitio presenta información ficticia sobre un desarrollador web,
+un portafolio de proyectos y una página de contacto.
+
+Páginas incluidas:
+
+1. index.html
+   Página principal del sitio.
+
+2. portfolio.html
+   Página donde se presentan diferentes proyectos mediante tarjetas
+   de Bootstrap.
+
+3. proyecto1.html
+   Página de detalle del primer proyecto.
+
+4. proyecto2.html
+   Página de detalle del segundo proyecto.
+
+5. proyecto3.html
+   Página de detalle del tercer proyecto.
+
+6. contacto.html
+   Página de contacto con formulario y validación de Bootstrap.
+
+Tecnologías utilizadas:
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Bootstrap Icons
+- Diseño Responsive
+
+Características principales:
+
+- Barra de navegación Bootstrap.
+- Diseño adaptable para computadoras, tablets y teléfonos.
+- Imagen de fondo en la página principal.
+- Sección "Acerca de mí".
+- Portafolio con tarjetas Bootstrap.
+- Botones "Leer más".
+- Páginas individuales para los proyectos.
+- Formulario de contacto.
+- Validación de formulario utilizando Bootstrap.
+- Información de contacto ficticia.
+- CSS personalizado.
+
+Estructura HTML5:
+
+El proyecto utiliza elementos semánticos de HTML5 como:
+<header>, <nav>, <main>, <section> y <footer>.
+
+GitHub:
+
+Enlace del proyecto:
+[PEGAR AQUÍ EL ENLACE DE GITHUB]
+
+Video:
+
+Se incluye un video de screen recording de la elaboración y
+funcionamiento del proyecto, con una duración mínima de 3 minutos.
